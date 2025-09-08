@@ -11,4 +11,4 @@ This YouTube Video Help you. This guy explains very well.
 
 Link: https://youtu.be/AY9MnQ4x3zk?si=RTaptOvqsKF1PaDr
 
-# *Still working on animation of player and obstacles*
+## Animation and Audio make the game look good.
