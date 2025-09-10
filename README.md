@@ -4,13 +4,16 @@
 
  This is the Pygame docs link: https://www.pygame.org/docs/
 
- ### Python
+ ## Python
  Command for Arch Linux
  <pre>sudo pacman -S python</pre>
 
- ### Pygame
+ ## Pygame
  Command for Arch Linux
  <pre>sudo pacman -S python-pygame</pre>
+
+ ## If you use another operating system like Windows or macOS, you search on the internet
+
 
 # Youtube: Code Clear
 If you need a video to learn the concept 
